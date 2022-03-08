@@ -1,5 +1,4 @@
 # Story Boards
-A compilation of Quality Improvement Story Boards
+A compilation of Story Maps
 
-https://www.canva.com/design/DAE6bKBnGIU/view
-
+https://storymaps.arcgis.com/stories/70c24e946cf14e9d85ebb67d319a9ddb
